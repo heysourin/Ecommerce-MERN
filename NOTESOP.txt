@@ -1,0 +1,7 @@
+1.      //rest object
+        const app = express();
+        //rest api
+        app.get("/", (req,res) => {});
+
+2.   "type":"module",
+    ** allows to import files in backend like react.js, ie `import {} from """`. require statement will give error 
